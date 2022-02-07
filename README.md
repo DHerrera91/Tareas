@@ -1,6 +1,7 @@
 # Tareas
-Este es mi primer repositorio creado para la carrera de TDS
-Esta es mi primer cambio
 
-// Para la realizacion de la tarea de la unidad 2 luego de hacer algunos intentos, opte por utilizar la estructura "switch case",
-con lo cual debi especificar cada uno de los casos, asignando a cada uno de los meses, los cuales fueron representados por numeros, una accion, mostrando asi atravez de la palabra reservadad "Alert" un mensaje indicando la estacion segun se indico en las instrucciones, siempre siguiendo la sintaxis correcta obteniendo finalmente el resultado esperado. //
+Resumen unidad 1
+
+En la unidad 1 la cual tuvo como titulo "Introduccion a la programacion", se abordaron temas fundamentales tales como el sistema binario, asi como los metodos para porder convertir de binario a decimal y viceversa, tambien se trato el tema de preposiciones logicas como la conjuncion, la disyuncion y la negacion. Tambien de estudiaron algunas definiciones como algoritmo, programacion, lenguaje de programacion, programa, editores de texto e IDE's.
+
+Como ejemplo de aplicacion de estos temas diria que se puede utilizar las preposiciones logicas para realizar alguna anformacion, dando un valor verdadero o falso a dicha afirmacion, y pudiendo tambien aplicar las conjunciones, disyunciones o negaciones para dar una mayor complejidad y especificidad a la afirmacion.
