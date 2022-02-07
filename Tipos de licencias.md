@@ -1,0 +1,4 @@
+Diego Antonio Herrera Ruano
+22000341
+
+En cuanto a los tipos de licencias para aplicar a repositorios en Github, luego de realizar una investigacion determine que el tipo de licencia mas apropiado a utilizar en mi repositorio de Github fue la "GNU Genereal Public license V3.0" ya que me parece que es un tipo de licensia que permite la distribucion libre de codigo abierto y que fomenta la colaboracion dentro de la comunidad de desarrolladores en todo el mundo, asi mismo nos protegemos ya que esta licensia incluye un descargo de responsabilidad por parte del autor del codigo previniendo asi cualquier problema por un mal uso o algun daño que dicho codigo pueda llegar a provocar. 
