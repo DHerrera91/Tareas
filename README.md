@@ -2,6 +2,16 @@
 
 Resumen unidad 1
 
-En la unidad 1 la cual tuvo como titulo "Introduccion a la programacion", se abordaron temas fundamentales tales como el sistema binario, asi como los metodos para porder convertir de binario a decimal y viceversa, tambien se trato el tema de preposiciones logicas como la conjuncion, la disyuncion y la negacion. Tambien de estudiaron algunas definiciones como algoritmo, programacion, lenguaje de programacion, programa, editores de texto e IDE's.
+Temas contenidos:
+1. Sistema binario
+2. Logica
+    2.1 Conjuncion
+    2.2 Disyuncion
+    2.3 Negacion
+3. Algoritmo 
+4. Programacion 
+5. Lenguaje de programacion
+6. Programa
+7. Editores de texto
+8. IDE (Integrated Development Enviroment)
 
-Como ejemplo de aplicacion de estos temas diria que se puede utilizar las preposiciones logicas para realizar alguna anformacion, dando un valor verdadero o falso a dicha afirmacion, y pudiendo tambien aplicar las conjunciones, disyunciones o negaciones para dar una mayor complejidad y especificidad a la afirmacion.
